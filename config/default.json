@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Kate123:Kate123@contactkeeper.bkfg3.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+    "jwtSecret": "buster"
+}
